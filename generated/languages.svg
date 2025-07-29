@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #e34c26;width: 69.619%;" class="progress-item"></span><span style="background-color: #89e051;width: 13.654%;" class="progress-item"></span><span style="background-color: #199f4b;width: 11.504%;" class="progress-item"></span><span style="background-color: #178600;width: 2.082%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 1.291%;" class="progress-item"></span><span style="background-color: #41b883;width: 0.946%;" class="progress-item"></span><span style="background-color: #663399;width: 0.854%;" class="progress-item"></span><span style="background-color: #3178c6;width: 0.049%;" class="progress-item"></span>
+<span style="background-color: #e34c26;width: 69.575%;" class="progress-item"></span><span style="background-color: #89e051;width: 13.646%;" class="progress-item"></span><span style="background-color: #199f4b;width: 11.497%;" class="progress-item"></span><span style="background-color: #178600;width: 2.080%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 1.353%;" class="progress-item"></span><span style="background-color: #41b883;width: 0.946%;" class="progress-item"></span><span style="background-color: #663399;width: 0.854%;" class="progress-item"></span><span style="background-color: #3178c6;width: 0.049%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -144,7 +144,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">HTML</span>
-<span class="percent">69.62%</span>
+<span class="percent">69.58%</span>
 </li>
 
 
@@ -180,7 +180,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">JavaScript</span>
-<span class="percent">1.29%</span>
+<span class="percent">1.35%</span>
 </li>
 
 
